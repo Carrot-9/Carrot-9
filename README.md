@@ -5,7 +5,7 @@
 
 - I have no idea what I want.
   
-- Pronouns: uh/um
+- Pronouns: uh
 
 
 
