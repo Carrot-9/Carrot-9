@@ -7,7 +7,11 @@
   
 - Pronouns: uh
 
+- [![Carrot-9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrot-9)](https://github.com/Carrot-9/github-readme-stats)
+
 - [![Carrot-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrot-9)](https://github.com/Carrot-9/github-readme-stats)
+
+- :( I'm a failure
 
 
 
