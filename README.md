@@ -4,4 +4,4 @@
 
 - I have no idea what I'm doing.
 
-![Carrot-9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrot-9&theme=tokyonight&hide=SCSS)
+- ![Carrot9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrot9&show_icons=true&theme=tokyonight)
